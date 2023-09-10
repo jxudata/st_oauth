@@ -23,13 +23,13 @@ is also an option to logout (a logout button is placed in the sidebar).
 
 You can install directly from github with this command:
 ```
-pip install git+https://github.com/sfc-gh-bhess/st_oauth.git
+pip install git+https://github.com/jxudata/st_oauth.git
 ```
 Note that python 3.8 is the only supported python version currently.
 
 To install directly from github via pipenv, use:
 ```
-pipenv install git+https://github.com/sfc-gh-bhess/st_oauth.git#egg=st_oauth
+pipenv install git+https://github.com/jxudata/st_oauth.git#egg=st_oauth
 ```
 
 ## Description
